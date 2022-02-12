@@ -1,0 +1,31 @@
+atomicwrites==1.4.0
+attrs==20.3.0
+colorama==0.4.4
+cycler==0.10.0
+et-xmlfile==1.0.1
+importlib-metadata==3.10.0
+iniconfig==1.1.1
+jdcal==1.4.1
+kiwisolver==1.1.0
+matplotlib==3.1.1
+numpy==1.19.5
+openpyxl==3.0.2
+packaging==20.9
+pandas==0.25.3
+pluggy==0.13.1
+plyer==2.0.0
+py==1.10.0
+pyparsing==2.4.5
+pytest==6.2.3
+python-dateutil==2.8.1
+pytz==2019.3
+# Editable install with no version control (reportingsourcecode==0.0.1)
+-e c:\users\78595\pycharmprojects\recurring_reports\reportingsourcecode
+selenium==3.141.0
+six==1.13.0
+toml==0.10.2
+tqdm==4.50.1
+typing-extensions==3.7.4.3
+urllib3==1.25.8
+xlrd==1.2.0
+zipp==3.4.1
