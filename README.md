@@ -20,7 +20,7 @@ The main components are:
 
 ---
 #### Copyrights
-This tool was created during corporate employment, however as my job description did not require me any programming or automation and it did not specified the ownership of any intellectual property of this sort, consulting with the corporate legal services confirmed my ownership of this tool. When I left the company an agreement was made to let the project continue to use the codebase, however this agreement did not include the transfer of copyrights. All the input and template files containing sensitive information and company property have been removed.
+This tool was created during corporate employment. When I left the company an agreement was made to let the project continue to use the codebase, however this agreement did not include the transfer of ownership. All the input and template files containing sensitive information and company property have been removed.
 
 ---
 ## Component descriptions
